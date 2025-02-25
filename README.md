@@ -1,1 +1,1 @@
-# Hello githu8b this is my first repository
+# Hello github this is my first repository
